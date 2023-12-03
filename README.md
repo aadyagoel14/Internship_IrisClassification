@@ -33,7 +33,7 @@ This repository contains the Iris Classification Machine Learning Project. Which
   <h3 align="center">Iris-Classification</h3>
 
   <p align="center">
-    An Iris Classification project built with comparision of four different Machine Learning models
+    An Iris Classification project built with comparison of four different Machine Learning models
     <br />
     <a> </a>
   </p>
@@ -68,7 +68,6 @@ This repository contains the Iris Classification Machine Learning Project. Which
 <!-- About the project-->
 ## About the Project 💻
 
-[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://irisclassifier.streamlit.app/)
 
 The Iris Classification Machine Learning Project is a thorough investigation of multi-modal machine learning methods used to classify iris blossoms into several species according to their morphological traits. This project includes the collection of data, data preprocessing, feature scaling, model training, model assessment, and finally the creation and implementation of an intuitive interface using Streamlit.
 
