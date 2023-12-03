@@ -27,8 +27,7 @@ This repository contains the Iris Classification Machine Learning Project. Which
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ruban2205/Iris_Classification/">
-    <img src="assets/logo.jpg" alt="Logo" width="160" height="80">
+  
   </a>
 
   <h3 align="center">Iris-Classification</h3>
